@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm apeshits</h1>
+<h1 align="center">Hi 👋, I'm apeSh1t</h1>
 <h3 align="center">A passionate developer from HITSZ</h3>
 
 - 🔭 I’m currently working on **基于通用的图像大模型解决天文图像的三个下游任务：识别，分类及分割**
