@@ -9,10 +9,10 @@
 
 - ⚡ Fun fact **Minecraft enthusiast**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apeshits&layout=compact)](https://github.com/apeshits/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apeSh1t&layout=compact)](https://github.com/apeshits/github-readme-stats)
 
 
-![apeshits's GitHub stats](https://github-readme-stats.vercel.app/api?username=apeshits&show_icons=true&theme=tokyonight)
+![apeshits's GitHub stats](https://github-readme-stats.vercel.app/api?username=apeSh1t&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
