@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Natural Language to SQL**
 
-- 🌱 I’m currently learning **pytorch, cv**
+- 🌱 I’m currently learning **LLM**
 
 - 📫 How to reach me **210110820@stu.hit.edu.cn**
 
