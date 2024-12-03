@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm apeSh1t</h1>
 <h3 align="center">A passionate developer from HITSZ</h3>
 
-- 🔭 I’m currently working on **Ensemble Learning for Stellar Classification and Radius Estimation from Multimodal Data**
+- 🔭 I’m currently working on **Natural Language to SQL**
 
 - 🌱 I’m currently learning **pytorch, cv**
 
