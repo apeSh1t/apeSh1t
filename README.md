@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **LLM**
 
-- 📫 How to reach me **210110820@stu.hit.edu.cn**
+- 📫 How to reach me **yushengyuan.ape@foxmail.com**
 
 - ⚡ Fun fact **Minecraft enthusiast**
 
