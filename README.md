@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Embodied AI**
 
-- 🌱 I’m currently learning **Diffusion and flow matching in Embodied AI**
+- 🌱 I’m currently learning **Embodied AI & Robotics**
 
-- 📫 How to reach me **yushengyuan.ape@foxmail.com**
-
-- ⚡ Fun fact **Minecraft enthusiast**
+- 📫 How to reach me **yushengyuan.ape@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apeSh1t&layout=compact)](https://github.com/apeshits/github-readme-stats)
 
