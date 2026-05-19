@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **yushengyuan.ape@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apeSh1t&layout=compact)](https://github.com/apeshits/github-readme-stats)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=apeSh1t&show_icons=true&theme=radical)
 
-
-![apeshits's GitHub stats](https://github-readme-stats.vercel.app/api?username=apeSh1t&show_icons=true&theme=tokyonight)
 
 </p>
